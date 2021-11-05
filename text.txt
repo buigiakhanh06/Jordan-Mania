@@ -3,3 +3,15 @@ Lỗi dự án
 2. Lỗi button Back to Home
 3. Trang checkout.html -> chạy js
 4. Trang purchase.html -> footer đẩy xuống cuối trang 
+
+Lưu ý: khi mở git bash/ cmd, đường dẫn ở folder chứa file .git
+B1: git add .
+B2: git commit -m "(sth)"
+B3: git push
+
+
+
+
+
+
+
