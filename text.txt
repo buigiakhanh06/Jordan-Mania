@@ -1,0 +1,5 @@
+Lỗi dự án
+1. Lỗi footer picks.html
+2. Lỗi button Back to Home
+3. Trang checkout.html -> chạy js
+4. Trang purchase.html -> footer đẩy xuống cuối trang 
